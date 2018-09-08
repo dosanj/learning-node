@@ -1,0 +1,23 @@
+{
+  "name": "learning-node",
+  "version": "1.0.0",
+  "description": "Repo to start learning node js from scratch in 2018",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dosanj/learning-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dosanj/learning-node/issues"
+  },
+  "homepage": "https://github.com/dosanj/learning-node#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
